@@ -109,13 +109,13 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/meeting-rooms-iii/">2402. Meeting Rooms III</a></td>
-      <td><a href="./2402.py">2402.py</a></td>
+      <td><a href="https://leetcode.com/problems/regular-expression-matching/">10. Regular Expression Matching</a></td>
+      <td><a href="./10.py">10.py</a></td>
       <td><a href="https://youtu.be/Pu3s2DJ9eNE">Link</a></td>
     </tr>
     <tr>
-      <td><a href="https://leetcode.com/problems/put-marbles-in-bags/description/">2551. Put Marbles in Bags</a></td>
-      <td><a href="./2551.py">2551.py</a></td>
+      <td><a href="https://leetcode.com/problems/burst-balloons/">312. Burst Balloons</a></td>
+      <td><a href="./312.py">312.py</a></td>
       <td><a href="https://youtu.be/wgAHkaWVEx0">Link</a></td>
     </tr>
   </tbody>
@@ -124,16 +124,16 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 4 - Resolução do exercício 2402</strong></p>
+  <p><strong>Imagem 4 - Resolução do exercício 10</strong></p>
 </div>
 
-![2402](Screenshots/2402.png)
+![10](Screenshots/10.png)
 
 <div align="center">
-  <p><strong>Imagem 5 - Resolução do exercício 2551</strong></p>
+  <p><strong>Imagem 5 - Resolução do exercício 312</strong></p>
 </div>
 
-![2551](Screenshots/2551.png)
+![312](Screenshots/312.png)
 
 #### 🟡 Questão Média
 
@@ -149,8 +149,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/">2064. Minimized Maximum of Products Distributed to Any Store</a></td>
-      <td><a href="./2064.py">2064.py</a></td>
+      <td><a href="https://leetcode.com/problems/coin-change/description/">322. Coin Change</a></td>
+      <td><a href="./322.py">322.py</a></td>
       <td><a href="https://youtu.be/Vo-M0chFtLA">Link</a></td>
     </tr>
   </tbody>
@@ -159,10 +159,10 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 6 - Resolução do exercício 2064</strong></p>
+  <p><strong>Imagem 6 - Resolução do exercício 322</strong></p>
 </div>
 
-![2064](Screenshots/2064.png)
+![2064](Screenshots/322.png)
 
 ---
 
