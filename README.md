@@ -111,12 +111,12 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/regular-expression-matching/">10. Regular Expression Matching</a></td>
       <td><a href="./10.py">10.py</a></td>
-      <td><a href="https://youtu.be/Pu3s2DJ9eNE">Link</a></td>
+      <td><a href="https://youtu.be/vywX-EearWQ">Link</a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/burst-balloons/">312. Burst Balloons</a></td>
       <td><a href="./312.py">312.py</a></td>
-      <td><a href="https://youtu.be/wgAHkaWVEx0">Link</a></td>
+      <td><a href="https://youtu.be/8zeVwd4OuEA">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -151,7 +151,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/coin-change/description/">322. Coin Change</a></td>
       <td><a href="./322.py">322.py</a></td>
-      <td><a href="https://youtu.be/Vo-M0chFtLA">Link</a></td>
+      <td><a href="https://youtu.be/6pXgF9MywAc">Link</a></td>
     </tr>
   </tbody>
 </table>
