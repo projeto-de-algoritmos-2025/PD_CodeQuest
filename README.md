@@ -34,8 +34,9 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/patching-array/">330. Patching Array</a></td>
-      <td><a href="./330.cpp">330.cpp</a></td>
+      <td><a href="https://leetcode.com/problems/longest-valid-parentheses/description/">32. Longest Valid Parentheses
+</a></td>
+      <td><a href="./32.cpp">32.cpp</a></td>
       <td><a href="https://youtu.be/fgVYjV_cGeg">Link</a></td>
     </tr>
   </tbody>
@@ -44,7 +45,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 1 - Resolução do exercício 330</strong></p>
+  <p><strong>Imagem 1 - Resolução do exercício 32</strong></p>
 </div>
 
 ![1028](Screenshots/330.png)
@@ -64,13 +65,15 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">122. Best Time to Buy and Sell Stock II</a></td>
-      <td><a href="./122.cpp">122.cpp</a></td>
+      <td><a href="https://leetcode.com/problems/edit-distance/description/">72. Edit Distance
+</a></td>
+      <td><a href="./72.cpp">72.cpp</a></td>
       <td><a href="https://youtu.be/5-MY5riaWko">Link</a></td>
     </tr>
     <tr>
-      <td><a href="https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/">452. Minimum Number of Arrows to Burst Balloons</a></td>
-      <td><a href="./452.cpp">452.cpp</a></td>
+      <td><a href="https://leetcode.com/problems/unique-paths/description/">62. Unique Paths
+</a></td>
+      <td><a href="./62.cpp">62.cpp</a></td>
       <td><a href="https://youtu.be/m7PuU86twPU">Link</a></td>
     </tr>
     
@@ -78,7 +81,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </table>
 
 <div align="center">
-  <p><strong>Imagem 2 - Resolução do exercício 122</strong></p>
+  <p><strong>Imagem 2 - Resolução do exercício 72</strong></p>
 </div>
 
 ![2290](Screenshots/122.png)
@@ -86,7 +89,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 3 - Resolução do exercício 452<strong></p>
+  <p><strong>Imagem 3 - Resolução do exercício 62<strong></p>
 </div>
 
 ![102](Screenshots/452.png)
