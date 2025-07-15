@@ -37,7 +37,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
       <td><a href="https://leetcode.com/problems/longest-valid-parentheses/description/">32. Longest Valid Parentheses
 </a></td>
       <td><a href="./32.cpp">32.cpp</a></td>
-      <td><a href="https://youtu.be/fgVYjV_cGeg">Link</a></td>
+      <td><a href="https://youtu.be/b99toQ3EoqU">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -48,7 +48,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <p><strong>Imagem 1 - Resolução do exercício 32</strong></p>
 </div>
 
-![1028](Screenshots/330.png)
+![32](Screenshots/32.png)
 
 
 #### 🟡 Questões Média
@@ -68,13 +68,13 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
       <td><a href="https://leetcode.com/problems/edit-distance/description/">72. Edit Distance
 </a></td>
       <td><a href="./72.cpp">72.cpp</a></td>
-      <td><a href="https://youtu.be/5-MY5riaWko">Link</a></td>
+      <td><a href="https://youtu.be/b99toQ3EoqU">Link</a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/unique-paths/description/">62. Unique Paths
 </a></td>
       <td><a href="./62.cpp">62.cpp</a></td>
-      <td><a href="https://youtu.be/m7PuU86twPU">Link</a></td>
+      <td><a href="https://youtu.be/b99toQ3EoqU">Link</a></td>
     </tr>
     
   </tbody>
@@ -84,7 +84,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <p><strong>Imagem 2 - Resolução do exercício 72</strong></p>
 </div>
 
-![2290](Screenshots/122.png)
+![72](Screenshots/72.png)
 
 </div>
 
@@ -92,7 +92,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <p><strong>Imagem 3 - Resolução do exercício 62<strong></p>
 </div>
 
-![102](Screenshots/452.png)
+![62](Screenshots/62.png)
 ---
 
 
